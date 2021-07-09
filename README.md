@@ -2,12 +2,16 @@
 #### :blush: Le Scone | site desenvolvido no curso [origamid.com/css-com-sass](https://www.origamid.com/curso/css-com-sass/)
 
 
-<a href="linkaqui">
-    <img alt="site caravan" title="ver o site" src="linkaqui" max-width=360px/>
+<a href="https://biacoelho.github.io/site-leScone-css-com-sass-origamid">
+    <img alt="site caravan" title="ver o site" src="https://github.com/biacoelho/site-leScone-css-com-sass-origamid/blob/main/demo-image.gif" max-width=360px/>
 </a>
 
-### Acesse o site para ver como ficou
-[Le Scone]()
+<br />
+<br />
+
+:eyes: **Acesse o site para ver como ficou**
+
+[Clique Aqui](https://biacoelho.github.io/site-leScone-css-com-sass-origamid)
 
 <br />
 
