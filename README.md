@@ -1,17 +1,20 @@
 
-#### :blush: Le Scone | site desenvolvido no curso [origamid.com/css-com-sass](https://www.origamid.com/curso/css-com-sass/)
 
+
+
+:eyes: **Acesse o site para ver como ficou**
+
+[Clique Aqui](https://beatriz-dadalto.github.io/site-leScone-css-com-sass-origamid)
 
 <a href="https://biacoelho.github.io/site-leScone-css-com-sass-origamid">
     <img alt="site caravan" title="ver o site" src="https://github.com/biacoelho/site-leScone-css-com-sass-origamid/blob/main/demo-image.gif" max-width=360px/>
 </a>
 
+#### :blush: Le Scone | site desenvolvido no curso [origamid.com/css-com-sass](https://www.origamid.com/curso/css-com-sass/)
+
 <br />
 <br />
 
-:eyes: **Acesse o site para ver como ficou**
-
-[Clique Aqui](https://biacoelho.github.io/site-leScone-css-com-sass-origamid)
 
 <br />
 
@@ -47,4 +50,4 @@
 
 <br />
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/biacoelho)](https://www.linkedin.com/in/biacoelho)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriz-dadalto)](https://www.linkedin.com/in/beatriz-dadalto)
